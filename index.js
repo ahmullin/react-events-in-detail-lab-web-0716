@@ -7,7 +7,7 @@ const DelayedButton = require('./components/DelayedButton');
 ReactDOM.render(
   <div>
     <CoordinatesButton />
-    <DelayedButton />
+
   </div>,
   document.getElementById('main')
 );
